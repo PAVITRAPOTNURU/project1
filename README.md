@@ -15,7 +15,7 @@ The Employee Reimbursement System will manage the process of reimbursing employe
 - JDBC
 - JUnit4.
 
-Features:
+# Features:
 
 1.List of features ready and TODOs for future development
 
@@ -31,8 +31,8 @@ Features:
 
 7.Administrators can view all employees.
 
-Usage
+# Usage
 
-Run maven build.
+- Run maven build.
 
-Run the war file in tomcat server.
+- Run the war file in tomcat server.
