@@ -17,19 +17,18 @@ The Employee Reimbursement System will manage the process of reimbursing employe
 
 # Features:
 
-1.List of features ready and TODOs for future development
+- List of features ready and TODOs for future development
 
-2.Users can submit reimbursement requests.
+- Users can submit reimbursement requests.
 
-3.Users can view the status of previously submitted requests.
+- Users can view the status of previously submitted requests.
 
-4.Users and Administrators can view their profile.
+- Users and Administrators can view their profile.
 
-5.Users and Administrators can update their profile.
+- Users and Administrators can update their profile.
+- Administrators can approve or deny pending requests.
 
-6.Administrators can approve or deny pending requests.
-
-7.Administrators can view all employees.
+- Administrators can view all employees.
 
 # Usage
 
